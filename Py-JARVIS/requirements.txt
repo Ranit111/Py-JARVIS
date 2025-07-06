@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+wikipedia
+pywhatkit
+requests
+pycaw
+screen-brightness-control
+openai
